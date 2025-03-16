@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujan Dulal</h1>
 <h3 align="center">A passionate Business Analyst exploring data and insights</h3>
-![image alt](https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif)
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
 
 - 🔭 I’m currently working on [PowerBI-Portfolio-Project](https://github.com/Sujan17-dulal/PowerBI-Portfolio-Project)
 
