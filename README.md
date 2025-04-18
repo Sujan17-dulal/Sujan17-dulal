@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [PowerBI-Portfolio-Project](https://github.com/Sujan17-dulal/PowerBI-Portfolio-Project)
 
-- 💬 Ask me about **Data, PowerBi, Phython, Business**
+- 💬 Ask me about **Data, PowerBi, Python, Business**
 
 - 📫 How to reach me **sujandulal151@gmail.com**
 
